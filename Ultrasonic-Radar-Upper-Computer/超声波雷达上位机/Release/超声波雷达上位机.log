@@ -1,0 +1,23 @@
+﻿  3dradar_upper_computer.cpp
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(371,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(371,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(371,15): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(391,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(390,12): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(389,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(455,59): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(456,59): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(459,59): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(460,59): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(463,66): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(464,66): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(467,66): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(468,66): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(471,28): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\超声波雷达上位机\3dradar_upper_computer.cpp(474,28): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  2 of 122 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  超声波雷达上位机.vcxproj -> D:\Program Files\Visual Studio 2022\sources\repos\超声波雷达上位机\Release\超声波雷达上位机.exe
