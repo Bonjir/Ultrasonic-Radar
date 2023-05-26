@@ -1,37 +1,32 @@
 # 超声波雷达 - ATmega8A
 
 #### 介绍
-大一下电设综合设计
+本项目是电子设计实践基础课程的综合设计大作业，项目名称为超声波雷达
+(Ultrasonic-Radar)，所具功能为通过超声波和舵机等多模块耦合实现测量多方位的距
+离，从而实现“雷达”的功能。作者瓶装蛋糕。
 
-#### 软件架构
-软件架构说明
+本项目主体部分是基于 Atmel Studio 7 开发环境开发的在 ATmega8A 芯片 16MHz
+外部晶振上运行的 C++程序，上位机部分是基于 Visual Studio 2022 开发环境、应用
+OpenGL 3D 图形库所实现的、在 Windows 64 位系统可运行的图形化界面程序。
+本项目使用了超声波 HC-SR04 模块、舵机 MG90S 模块、 OLED 屏 12864 模块、
+按键阵列、 CH340G 串口模块，并且对所有模块进行了封装，将硬件层面的操作对上
+层接口进行了信息屏蔽，避免了在调用以及调试的复杂繁琐，同时极大地增大了代码
+的可读性、通用性和灵活性。
 
+本项目具有自主设计并打印的舵机和超声波模块的外壳，相较于已有的二自由度
+舵机平台可以转动更大的角度，同时可以方便地拆卸和携带，具有更高的灵活度和便
+携性。
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+本项目着力优化代码性能、代码效果以及代码大小，尽最大可能将尽量多的功能
+放在一个程序文件中，同时最大化利用 MCU 的各个存储单元，如 Flash、 EEPROM、
+SRAM。由于本项目所用芯片的存储大小有限，在部分代码中采取了以时间换取空间的
+做法，以减小空间占用。
+本项目全部代码基于 MIT 协议开源。
 
 #### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+软件设计：瓶装蛋糕  
+程序架构：瓶装蛋糕  
+项目构思：瓶装蛋糕  
+硬件设计：瓶装蛋糕  
+文档编写：瓶装蛋糕  
+指导教师：lyh  
