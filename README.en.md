@@ -12,5 +12,5 @@ This project focuses on optimizing code performance, effect, and size, trying to
 All codes in this project are open-sourced under the MIT license.
 
 #### Contributors
-Project author: Bonjir
+Project author: Bonjir  
 Supervising teacher: lyh
